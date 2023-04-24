@@ -1,12 +1,22 @@
 <h1>Hi, devs!!!</h1>
+Meu nome é Edoarda, com "O" mesmo! Sou estudante do curso Fisioterapia, atualmente no 6º período. E, nos últimos tempos me joguei no mundo da progrmação, uma realidade totalmente atípica. Apesar de áreas totalmente distintas, me sinto realizada com toda essa muvuca de aprendizados.
 
-<img align="left" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/126485412/234019091-d634f724-a229-4549-9090-2abce33744d1.jpg">
+</br>
+</br>
+
+**Sobre mim:**
+
+- 🎓 &nbsp; Estudante de Desenvolimento Web
+- 📈 &nbsp; Foco em Front-End
+- 📚 &nbsp; Apaixonada por leitura e múscia boa
+
+<img align="left" width="200px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/126485412/234019091-d634f724-a229-4549-9090-2abce33744d1.jpg">
 
 </br>
 </br>
 
 <div style="display: inline_block">
-  <h1 align="left">Edoarda Depiné</h1>
+  <h2 align="left">social medias:</h2>
   <a href="https://www.instagram.com/edoarda.depine/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a>
@@ -34,9 +44,9 @@
 </br>
 
 <a href="https://github.com/EdoardaDepine">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardaDepine&layout=compact&langs_count=7&theme=dracula"/>
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardaDepine&layout=compact&langs_count=7&theme=dracula"/>
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=EdoardaDepine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=EdoardaDepine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
           
 
