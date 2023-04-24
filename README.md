@@ -1,14 +1,16 @@
 <h1>Hi, devs!!!</h1>
 <p>Meu nome é Edoarda, com "O" mesmo!</p>
-<p>Sou estudante do curso Fisioterapia, atualmente no 6º período. E nos últimos tempos me joguei no mundo da progrmação, que como vocês sabem, uma realidade totalmente atípica. Apesar de áreas totalmente distintas, me sinto realizada com todos os desafios e essa muvuca de aprendizados.</p>
+<p> 🎓 &nbsp; Sou estudante do curso Fisioterapia, atualmente no 6º período. E nos últimos tempos me joguei no mundo da progrmação, que como vocês sabem, uma realidade totalmente atípica. Apesar de áreas totalmente distintas, me sinto realizada com todos os desafios e essa muvuca de aprendizados.</p>
+ <p>🎯 &nbsp; Estudo Desenvolvimento Web na Alura, com foco em Front-end.</p>
 
 </br>
 
 **Sobre mim:**
 
-- 🎓 &nbsp; Estudante de Desenvolimento Web na [**Alura**](https://github.com/alura-cursos)
-- 📈 &nbsp; Foco em Front-End
-- 📚 &nbsp; Apaixonada por leitura e múscia boa
+- 📚 &nbsp; Apaixonada por livros, e histórias que aquecem o coração...
+- ☕ &nbsp; Uma xícara de café preto é essencial para começar o dia...
+- 🎼 &nbsp; Música boa é aquela que trás as melhores memórias...
+- 💡 &nbsp; E claro, como uma curiosa assídua, adoro experimentar, ouvir, e descobrir horizontes...
 
 <img align="left" width="200px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/126485412/234019091-d634f724-a229-4549-9090-2abce33744d1.jpg">
 
