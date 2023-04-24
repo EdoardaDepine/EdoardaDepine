@@ -39,14 +39,14 @@ Meu nome é Edoarda, com "O" mesmo! Sou estudante do curso Fisioterapia, atualme
   
  </br>
  
- <img width="300px" align="right" src="https://user-images.githubusercontent.com/126485412/234028162-5397adc6-6134-481c-a795-5cf726f1c823.jpg">
+ <img width="200px" align="right" src="https://user-images.githubusercontent.com/126485412/234028162-5397adc6-6134-481c-a795-5cf726f1c823.jpg">
 
 </br>
 
 <a href="https://github.com/EdoardaDepine">
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardaDepine&layout=compact&langs_count=7&theme=dracula"/>
+<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardaDepine&layout=compact&langs_count=7&theme=dracula"/>
 
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=EdoardaDepine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api?username=EdoardaDepine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
           
 
