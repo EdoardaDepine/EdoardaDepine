@@ -19,7 +19,6 @@
 </br>
 </br>
 
-
 <div>
   <div style="display: inline_block">
     <h2>linguagens e ferramentas:</h2>
@@ -28,14 +27,9 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>       
   </div>
   
-  </br>
-  
-  <div display="inline-block">
-  <img width="300px" align="right" src="https://user-images.githubusercontent.com/126485412/234028162-5397adc6-6134-481c-a795-5cf726f1c823.jpg">
-   <p align="left">📚 Estudante de programação com foco em front-end;</p>
-   <p align="left">📈 Compartilho meus projetos e experiências aqui no GihHub e também no Linkedin!</p>
-  </div>
-</div>
+ </br>
+ 
+ <img width="300px" align="right" src="https://user-images.githubusercontent.com/126485412/234028162-5397adc6-6134-481c-a795-5cf726f1c823.jpg">
 
 </br>
 
