@@ -26,8 +26,6 @@ Meu nome é Edoarda, com "O" mesmo! Sou estudante do curso Fisioterapia, atualme
 </div>
 
 </br>
-</br>
-</br>
 
 <div>
   <div style="display: inline_block">
