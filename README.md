@@ -1,7 +1,7 @@
 <h1>Hi, devs!!! 👋</h1>
 <p>Meu nome é Edoarda, com "O" mesmo!</p>
 <p> 🎓 &nbsp; Sou estudante do curso Fisioterapia, atualmente no 6º período. E nos últimos tempos me joguei no mundo da progrmação, que como vocês sabem, uma realidade totalmente atípica. Apesar de áreas totalmente distintas, me sinto realizada com todos os desafios e essa muvuca de aprendizados.</p>
- <p>🎯 &nbsp; Estudo Desenvolvimento Web na Alura, com foco em Front-end.</p>
+ <p>🎯 &nbsp; Estudo Desenvolvimento Web na Alura, com foco em Front End.</p>
 
 </br>
 
