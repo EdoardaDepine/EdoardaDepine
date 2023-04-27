@@ -13,7 +13,7 @@
 - 🎼 &nbsp; Música boa é aquela que trás as melhores memórias...
 - 💡 &nbsp; E claro, como uma curiosa assídua, adoro experimentar, ouvir, e descobrir...
 
-<img align="left" width="200px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/126485412/234019091-d634f724-a229-4549-9090-2abce33744d1.jpg">
+<img align="left" width="200px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/126485412/234856663-cd8b22c3-320a-4582-b0e4-552528240ebb.jpg">
 
 </br>
 </br>
@@ -40,7 +40,7 @@
   
  </br>
  
- <img width="115px" align="right" src="https://user-images.githubusercontent.com/126485412/234028162-5397adc6-6134-481c-a795-5cf726f1c823.jpg">
+ <img width="117px" align="right" src="https://user-images.githubusercontent.com/126485412/234856893-3181b2e2-dc6e-4c54-b522-076bc44efd0c.jpg">
 
 </br>
 
