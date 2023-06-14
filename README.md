@@ -24,7 +24,7 @@
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a>
   <a href="">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="https://www.linkedin.com/in/edoarda-roberta-depin%C3%A9-921169276/" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
